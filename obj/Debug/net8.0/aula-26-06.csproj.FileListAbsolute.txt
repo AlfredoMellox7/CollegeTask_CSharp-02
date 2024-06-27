@@ -1,0 +1,14 @@
+C:\lucasFoguete\veiculos\bin\Debug\net8.0\aula-26-06.exe
+C:\lucasFoguete\veiculos\bin\Debug\net8.0\aula-26-06.deps.json
+C:\lucasFoguete\veiculos\bin\Debug\net8.0\aula-26-06.runtimeconfig.json
+C:\lucasFoguete\veiculos\bin\Debug\net8.0\aula-26-06.dll
+C:\lucasFoguete\veiculos\bin\Debug\net8.0\aula-26-06.pdb
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\aula-26-06.GeneratedMSBuildEditorConfig.editorconfig
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\aula-26-06.AssemblyInfoInputs.cache
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\aula-26-06.AssemblyInfo.cs
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\aula-26-06.csproj.CoreCompileInputs.cache
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\aula-26-06.dll
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\refint\aula-26-06.dll
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\aula-26-06.pdb
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\aula-26-06.genruntimeconfig.cache
+C:\lucasFoguete\veiculos\obj\Debug\net8.0\ref\aula-26-06.dll
